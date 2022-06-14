@@ -21,7 +21,7 @@ public class LoginPage {
 	private By registerLink = By.linkText("Register");
 	private By accLogoutMessage = By.cssSelector("div#content h1");
 	
-	private By murali = By.cssSelector("div#murali");
+	
 
 	// 2. public page class const...
 	public LoginPage(WebDriver driver) {
